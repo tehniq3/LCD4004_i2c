@@ -3,4 +3,4 @@ based on info from https://forum.arduino.cc/t/pcf8574-i2c-adapter-modified-for-l
 
 ![schematic](https://github.com/tehniq3/LCD4004_i2c/blob/main/LCD4004_i2c_wirring_sch.png)
 
-NOTE: best results can be with decreased background LEDs current with series 470Ω.
+NOTE: Best results (at list for yellow-green display) was to decreased background LEDs current with series 470Ω resistor.
