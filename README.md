@@ -5,4 +5,4 @@ based on info from https://forum.arduino.cc/t/pcf8574-i2c-adapter-modified-for-l
 
 NOTE:
 - Best results (at list for yellow-green display) was to decreased background LEDs current with series 470Ω resistor.
-- For higher contrast Vo goes to GND 
+- For higher contrast Vo (pin 12 from LCD) dissconnect from i2c interfce but connect to GND. 
