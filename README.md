@@ -8,3 +8,8 @@ NOTE:
 - For higher contrast Vo (pin 12 from LCD) dissconnect from i2c interfce but connect to GND. 
 
 ![RTC clock](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/RTC_LCD4004_i2c_wirring_sch.png)
+
+![thick](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/thick.png)
+
+![thin](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/thin.png)
+
