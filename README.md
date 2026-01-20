@@ -9,7 +9,10 @@ NOTE:
 
 ![RTC clock](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/RTC_LCD4004_i2c_wirring_sch.png)
 
-![thick](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/thick.png)
 
 ![thin](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/thin.png)
+
+![thick](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/thick.png)
+
+
 
