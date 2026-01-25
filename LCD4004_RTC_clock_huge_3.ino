@@ -427,8 +427,8 @@ x = x0 + 28;
 x = x0 + 32;
   customC();
  }
+delay(1500);
 } // date or temperature
-
 
 timp = millis();
 }
@@ -1098,3 +1098,4 @@ lcd.clear(2);
   zsec0 = 11;
   usec0 = 11;  
 }
+
