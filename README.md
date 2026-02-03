@@ -4,7 +4,7 @@ based on info from https://forum.arduino.cc/t/pcf8574-i2c-adapter-modified-for-l
 My articles:
 - 1st article: https://nicuflorica.blogspot.com/2026/01/afisaj-alfanumeric-lcd4004-controlat.html
 - 2nd article: (https://nicuflorica.blogspot.com/2026/01/afisaj-alfanumeric-lcd4004-controlat_25.html
-
+- 3rd article: Nicu FLORICA (niq_ro): https://nicuflorica.blogspot.com/2026/02/ceas-rtc-cu-cifre-uriase-pe-afisaj-i2c.html
 
 ![schematic](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/LCD4004_i2c_wirring_sch.png)
 
