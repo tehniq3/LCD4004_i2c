@@ -8,7 +8,7 @@ My articles:
 
 ![promo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj1JGo5-Ln-4VJGvfh2_RBAeQ3Evhvd-72Ov-r3mOq07kCLE94MbovmD5yOL_dsr9ftGSBkTboq433dsPX-Yk9id-9C3RyMD4smUd0G7clZT4edTiGGgwVFX5PLLotX2BaWGnmhAW7qjx0Y4b6sJtBEyAHQCHJjF4IfKFyYoUygm6CCR0i0MPCnXLVyT_i/w200-h93/RTC_encoder_LCD4004_i2c_01.jpg)
 
-![schematic](https://github.com/tehniq3/LCD4004_i2c/blob/main/docs/LCD4004_i2c_wirring_sch.png)
+![promo2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTpbV8NFpPq6Kj_erogz_LViTrvOmKb6SjMgy8Aq5q9-m426Ad8txz8S1Cn3Jas5gWA9m8CkPOoYG64ht-NJUomFiiHFYhmpPI55QUrJQJRLmjpoWfvj5_8Jr5IEV01aY2srKieqKV8tC6pa-HRgOt2e3CEO-KUNKYTumlooPBj0S7NJqfLOv1cRSzVj1/s320/LCD4004_i2c_interface_RTC_1.jpg)
 
 NOTE:
 - Best results (at list for yellow-green display) was to decreased background LEDs current with series 470Ω resistor.
